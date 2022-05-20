@@ -42,4 +42,6 @@ npm run build
 ```
 npm run lint
 ```
+
+[![pages-build-deployment](https://github.com/romulolessa/DacxiFrontEnd/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/romulolessa/DacxiFrontEnd/actions/workflows/pages/pages-build-deployment)
  
