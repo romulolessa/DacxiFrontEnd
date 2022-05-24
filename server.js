@@ -1,4 +1,4 @@
-var express = require('express')
+var express = require('Express')
 var path = require('path')
 var serveStatic = require('serve-static')
 
